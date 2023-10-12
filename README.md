@@ -40,5 +40,5 @@ I am **Bayu**, a Software Engineer proficient in TypeScript and well-versed in p
 
 ## Statistics
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Bayusetiawan45&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bayu's github stats" /> | <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayusetiawan45&layout=compact&theme=react&hide=php&langs_count=6" />  |
-| ------------- | ------------- |
+<span><img height="150" src="https://github-readme-stats.vercel.app/api?username=Bayusetiawan45&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bayu's github stats" /></span>
+<span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayusetiawan45&layout=compact&langs_count=6" /></span>
