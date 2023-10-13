@@ -25,11 +25,11 @@ I am **Bayu**, a Software Engineer proficient in TypeScript and well-versed in p
 ![Vue Js](https://img.shields.io/badge/Vue.Js-fff?style=for-the-badge&logo=vue.js&logoColor=20dd86)&nbsp;
 ![Express Js](https://img.shields.io/badge/Express.Js-000?style=for-the-badge&logo=express&logoColor=20dd86)&nbsp;
 
-#### Database
+#### Databases
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-fff?style=for-the-badge&logo=mongodb&logoColor=green)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-229555?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![Firestore](https://img.shields.io/badge/Firestore-ffcd34?style=for-the-badge&logo=firebase&logoColor=black)&nbsp;
 
 #### Tools and Technologies
