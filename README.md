@@ -9,15 +9,15 @@ I am **Bayu**, a Software Engineer proficient in TypeScript and well-versed in p
 [![](https://komarev.com/ghpvc/?username=Bayusetiawan45&color=blue&label=Profile%20Views)](https://github.com/Bayusetiawan45/Bayusetiawan45)
 [![](https://img.shields.io/github/followers/Bayusetiawan45?label=GitHub%20Followers)](https://github.com/Bayusetiawan45)
 
-## Skills:
+## Skills
 
-#### Languages:
+#### Languages
 
 ![Javascript](https://img.shields.io/badge/Javascript-efd81a?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/Typescript-2f73bf?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
-#### Framework and Libraries:
+#### Framework and Libraries
 
 ![Next Js](https://img.shields.io/badge/Next.Js-000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
 ![Nuxt Js](https://img.shields.io/badge/Nuxt.Js-000?style=for-the-badge&logo=nuxt.js&logoColor=20dd86)&nbsp;
