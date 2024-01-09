@@ -7,6 +7,7 @@ I am **Bayu**, a Software Engineer proficient in TypeScript and well-versed in p
 [![Linkedin: Bayu Setiawan](https://img.shields.io/badge/-Bayu%20Setiawan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bayu-setiawan99/)](https://www.linkedin.com/in/bayu-setiawan99/)
 <a href="mailto:bayusetiawanipb@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bayusetiawanipb-blue?style=flat-square&logo=email"></a>
 [![](https://komarev.com/ghpvc/?username=Bayusetiawan45&color=blue&label=Profile%20Views)](https://github.com/Bayusetiawan45/Bayusetiawan45)
+[![wakatime](https://wakatime.com/badge/user/f180eaae-3d40-49be-bdbc-7caccfa4e295.svg)](https://wakatime.com/@f180eaae-3d40-49be-bdbc-7caccfa4e295)
 [![](https://img.shields.io/github/followers/Bayusetiawan45?label=GitHub%20Followers)](https://github.com/Bayusetiawan45)
 
 ## Skills
@@ -42,3 +43,4 @@ I am **Bayu**, a Software Engineer proficient in TypeScript and well-versed in p
 
 <span><img height="150" src="https://github-readme-stats.vercel.app/api?username=Bayusetiawan45&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bayu's github stats" /></span>
 <span><img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayusetiawan45&layout=compact&langs_count=6" /></span>
+<span><a href="https://wakatime.com/@codebayu"><img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=codebayu&layout=compact&langs_count=6" /></a></span>
