@@ -1,6 +1,6 @@
 ### **Bayu Setiawan** 
 
-<sub>•Have a lot of curiosity</sub>
+• Have a lot of curiosity
 
 <br />
 
